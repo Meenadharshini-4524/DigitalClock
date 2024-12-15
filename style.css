@@ -17,7 +17,7 @@ body {
   background: #292d4e;
   text-align: center;
   border-radius: 10px;
-  position: relative;
+  position: absoulte;
 }
 @property --angle {
   syntax: "<angle>";
